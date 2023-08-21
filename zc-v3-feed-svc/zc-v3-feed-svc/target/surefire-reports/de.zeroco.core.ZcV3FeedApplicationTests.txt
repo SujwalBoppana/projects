@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.zeroco.core.ZcV3FeedApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.962 s - in de.zeroco.core.ZcV3FeedApplicationTests
